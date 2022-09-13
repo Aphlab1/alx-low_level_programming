@@ -1,4 +1,4 @@
-#include "Aphlab1.h"
+#include 'main.h'
 
 /**
  * main - Print putchar
