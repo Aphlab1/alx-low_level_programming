@@ -6,10 +6,10 @@
 int _putchar(char c);
 void print_alphabet(void);
 void print_alphabet_x10(void);
-int_islower(int c);
-int_isalpha(int c);
-int_print_sign(int n);
-int_abs(int);
-int_print_last_digit(int);
-
-#endif / MAIN_H /
+int _islower(int c);
+int _isalpha(int c);
+int print_sign(int n);
+int _abs(int r);
+int print_last_digit(int r);
+void jack_bauer(void);
+#endif /* MAIN_H */
