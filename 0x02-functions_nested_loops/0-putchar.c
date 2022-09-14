@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * Description: prints "_putchar \n"
- * Return: Always 0 (Success)
+ * REturn: Always 0 (Success)
  *
  */
 
