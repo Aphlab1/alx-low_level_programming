@@ -20,7 +20,7 @@ int main(void)
 		}
 	}
 
-	printf("%1d\n", maxf);
+	printf("%ld\n", maxf);
 
 	return (0);
 }
