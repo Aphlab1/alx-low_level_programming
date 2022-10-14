@@ -17,6 +17,7 @@ void print_numbers(const char *separator, constunsigned int n, ...)
 {
 	va_list nums;
 	unsigned int index;
+
 	va_start(nums, n);
 
 	for (index = 0; index < n; index++)
